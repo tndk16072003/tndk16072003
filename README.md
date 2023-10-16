@@ -1,3 +1,5 @@
+![Easy Frontend banner](https://res.cloudinary.com/easy-frontend/image/upload/v1598840121/blog/easy-frontend-banner-cropped_yjw0g0.jpg)
+
 # Tran Nguyen Duy Khanh - Web Developer
 
 - Open and friendly.
