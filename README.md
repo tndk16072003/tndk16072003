@@ -48,4 +48,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+&hearts; [Duy Khanh](https://github.com/tndk16072003)
