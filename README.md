@@ -35,5 +35,8 @@
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<p align="center"><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=tndk16072003&show_icons=true&locale=en&layout=compact"
+        alt="tndk16072003" /></p>
 ---
 [Tran Nguyen Duy Khanh](https://github.com/tndk16072003) 
