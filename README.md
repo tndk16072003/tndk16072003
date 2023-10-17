@@ -4,34 +4,36 @@
 
 - Open and friendly.
 - Love to learn new  s things, new technology's.
-- Enjoy working with ssssusseJS, Vue Single Page App, PHP (Laravel) ❤
 
-## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/easy-frontend/image/upload/v1598840300/blog/programming_hgngx9.png"></a>
+## About me & Working <a href="https://github.com/tndk16072003"><img align="left" width="auto" height="200" src="https://i.imgur.com/vXhBRRj.jpg"></a>
 
-- `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
-- `Instructor` at Nordic Coder: [view it on Nordic Coder website](https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/)
-- `Owner` of a `more than 5k subs` Youtube Channel sharing about Frontend: `Easy Frontend` [https://youtube.com/easyfrontend](https://youtube.com/easyfrontend?sub_confirmation=1)
-- `Owner` of website [https://www.ezfrontend.com/](https://www.ezfrontend.com/) where I can share my favorite topics via blog posts.
+- Fullname: Tran Nguyen Duy Khanh
+- From: Da Nang City
+- Education: I am studying software technology at Duy Tan University
+- Development Direction: Website Developer
+- Personal Project: [MOVIE THEATER MANAGEMENT](https://duykhanhdng.dzloye.com/)
+- My Curriculum Vitae (CV): [CLICK HERE](https://drive.google.com/file/d/19hZFuVp6K795Z5TzzVK2O_eoqL4bTH0w/view?usp=sharing)
 ### My Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat-square&logo=Laravel)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-s
+
+
 #### Frontend
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/-jQuery-white?style=flat-square&logo=jQuery&logoColor=blue)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 [Tran Nguyen Duy Khanh](https://github.com/tndk16072003) 
