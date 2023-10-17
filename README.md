@@ -5,7 +5,7 @@
 - Open and friendly.
 - Love to learn new  s things, new technology's.
 
-## About me & Working <a href="https://github.com/tndk16072003"><img align="left" width="auto" height="220" src="https://i.imgur.com/vXhBRRj.jpg"></a>
+## About me & Working <a href="https://github.com/tndk16072003"><img align="left" width="auto" height="210" src="https://i.imgur.com/vXhBRRj.jpg"></a>
 
 - Fullname: Tran Nguyen Duy Khanh
 - From: Da Nang City
