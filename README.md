@@ -12,7 +12,7 @@
 - Education: I am studying software technology at Duy Tan University
 - Development Direction: Website Developer
 - Personal Project: [MOVIE THEATER MANAGEMENT](https://duykhanhdng.dzloye.com/)
-- My Curriculum Vitae (CV): [CLICK HERE](https://drive.google.com/file/d/19hZFuVp6K795Z5TzzVK2O_eoqL4bTH0w/view?usp=sharing)
+- My Curriculum Vitae (CV): [CLICK HERE](https://drive.google.com/file/d/1-Hls01aMhimhaZq3-337nIu0fONuWffU/view?usp=sharing)
 ### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
