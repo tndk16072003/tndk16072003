@@ -13,11 +13,13 @@
 - Development Direction: Website Developer
 - Personal Project: [MOVIE THEATER MANAGEMENT](https://duykhanhdng.dzloye.com/)
 - My Curriculum Vitae (CV): [CLICK HERE](https://drive.google.com/file/d/19hZFuVp6K795Z5TzzVK2O_eoqL4bTH0w/view?usp=sharing)
-### My Tech Stack
+### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/node.js-%23333333.svg?style=for-the-badge&logo=node.js&logoColor=green)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23034d39)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### Frontend
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -27,6 +29,7 @@
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Others
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
